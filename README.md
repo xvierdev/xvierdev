@@ -14,7 +14,7 @@ I'm a passionate learner with a deep interest in mathematics, philosophy, and th
 * Arduino (Design Arduino projects for teaching)
 * Proficient in building and maintaining custom computer systems.
 
-:dizzy:**Interests:**
+:dizzy:**Interests**
 * I am interested in studying parallel programming, process optimization, security and cryptography, data management, network infrastructure, and backup.
 
 :bulb:**Projects**
@@ -25,6 +25,7 @@ I'm a passionate learner with a deep interest in mathematics, philosophy, and th
 
 * Email: [wesley.xvier@gmail.com](wesley.xvier@gmail.com)
 * LinkedIn: [xvierbr](https://www.linkedin.com/in/xvierbr/)
+* PGP Publick key: (https://keys.openpgp.org/vks/v1/by-fingerprint/6DA9CC094E97CB85720DD551023F1F4C3FF5E8D2)
 
 "May roses bloom upon your cross." 🌹
 
