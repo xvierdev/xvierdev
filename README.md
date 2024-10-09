@@ -1,26 +1,27 @@
 ## Live long and prosper🖖
 
-**About Me**
+:sunglasses:**About Me**
 
-I am a passionate learner with a deep interest in mathematics, philosophy, and the natural sciences. I am drawn to the elegance of the universe's laws and seek to understand life's profound mysteries.
+I'm a passionate learner with a deep interest in mathematics, philosophy, and the natural sciences, drawn to the elegance of the universe's laws and seeking to understand life's profound mysteries. As a first-semester systems analysis and development student at FATEC in São José dos Campos, I'm currently working as a computer instructor at Microcamp while always seeking new challenges.🚀
 
-I am a first-semester systems analysis and development student at FATEC in São José dos Campos. I am currently working as a computer instructor at Microcamp, but I am always seeking new challenges. 🚀
-
-**Skills**
+:muscle:**Skills**
 * Programming languages (Python, C#)
 * I am proficient in using Adobe Photoshop, Illustrator, and Microsoft Office Suite (Word, Excel, PowerPoint).
 * Problem-solving
 * Teamwork
 
-**Hardware**
+:wrench:**Hardware**
 * Arduino (Design Arduino projects for teaching)
 * Proficient in building and maintaining custom computer systems.
 
-**Projects**
+:dizzy:**Interests:**
+* I am interested in studying parallel programming, process optimization, security and cryptography, data management, network infrastructure, and backup.
+
+:bulb:**Projects**
 
 * [API1 Fatec] - Integrated learning project - creation of a web page for teaching the agile Scrum methodology. (https://github.com/davihelisson/FATEC-API-Under_Devs)
 
-**Contact**
+:email:**Contact**
 
 * Email: [wesley.xvier@gmail.com](wesley.xvier@gmail.com)
 * LinkedIn: [xvierbr](https://www.linkedin.com/in/xvierbr/)
