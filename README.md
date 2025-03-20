@@ -1,45 +1,34 @@
-## Live long and prosper🖖
+# Olá eu sou Wesley
+Estudante de análise e desenvolvimento de sistemas, cursando segundo semestre na FATEC em São José dos Campos.
 
-:sunglasses:**About Me**
+Atualmente trabalho como instrutor de informática e hardware na escola Microcamp, estou em busca de oportunidades para empregar minhas habillidades no desenvolvimento de software.
 
-I'm a passionate learner with a deep interest in mathematics, philosophy, and the natural sciences, drawn to the elegance of the universe's laws and seeking to understand life's profound mysteries. As a first-semester systems analysis and development student at FATEC in São José dos Campos, I'm currently working as a computer instructor at Microcamp while always seeking new challenges.🚀
+## Linguagens de Programação
+- Python
+- C#
+- Java
 
-:muscle:**Skills**
-* Programming languages (Python, C#)
-* I am proficient in using Adobe Photoshop, Illustrator, and Microsoft Office Suite (Word, Excel, PowerPoint).
-* Problem-solving
-* Teamwork
+## Técnologias
+- Git
+- Jira
+- Figma
+- BrModelo
 
-:wrench:**Hardware**
-* Arduino (Design Arduino projects for teaching)
-* Proficient in building and maintaining custom computer systems.
+## Projetos
 
-:dizzy:**Interests**
-* I am interested in studying parallel programming, process optimization, security and cryptography, data management, network infrastructure, and backup.
+### API (Aprendizado por Projetos Integradores)
 
-:bulb:**Projects**
+* [API1 FATEC] - Aplicação Web para ensino do Scrum (https://github.com/davihelisson/FATEC-API-Under_Devs)
+* [API2 FATEC] - IDE integrada ao Ollama para criação de testes unitários usando IA (https://github.com/davihelisson/FATEC-API2ADS-UnderDevs)
 
-* [API1 Fatec] - Integrated learning project - creation of a web page for teaching the agile Scrum methodology. (https://github.com/davihelisson/FATEC-API-Under_Devs)
+### Projetos Pessoais
 
-:email:**Contact**
+- EnglishTerminal - Uma aplicação em Python para aprendizagem de inglês (https://github.com/xvierdev/EnglishTerminal)
+
+## Contato
 
 * Email: [wesley.xvier@gmail.com](wesley.xvier@gmail.com)
-* LinkedIn: [xvierbr](https://www.linkedin.com/in/xvierbr/)
-* PGP Publick key: (https://keys.openpgp.org/vks/v1/by-fingerprint/6DA9CC094E97CB85720DD551023F1F4C3FF5E8D2)
+* LinkedIn: [xvierdev](https://www.linkedin.com/in/xvierbr/)
+
 
 "May roses bloom upon your cross." 🌹
-
-<!--
-**xvierdev/xvierdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
