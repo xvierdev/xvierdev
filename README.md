@@ -8,7 +8,7 @@ Atualmente trabalho como instrutor de informática e hardware na escola Microcam
 - C#
 - Java
 
-## Técnologias
+## Tecnologias
 - Git
 - Jira
 - Figma
@@ -18,12 +18,12 @@ Atualmente trabalho como instrutor de informática e hardware na escola Microcam
 
 ### API (Aprendizado por Projetos Integradores)
 
-* [API1 FATEC] - Aplicação Web para ensino do Scrum (https://github.com/davihelisson/FATEC-API-Under_Devs)
-* [API2 FATEC] - IDE integrada ao Ollama para criação de testes unitários usando IA (https://github.com/davihelisson/FATEC-API2ADS-UnderDevs)
+* 1° API FATEC - Scrum360: Aplicação Web para ensino da metodologia ágil Scrum [Repositório Scrum360](https://github.com/davihelisson/FATEC-API-Under_Devs)
+* 2° API FATEC - IDE integrada ao Ollama desenvolvida em Java para criação de testes unitários usando IA [ Repositório PyIDE](https://github.com/davihelisson/FATEC-API2ADS-UnderDevs)
 
 ### Projetos Pessoais
 
-- EnglishTerminal - Uma aplicação em Python para aprendizagem de inglês (https://github.com/xvierdev/EnglishTerminal)
+- EnglishTerminal - Uma aplicação em Python para aprendizagem de inglês [Repositório EnglishTerminal](https://github.com/xvierdev/EnglishTerminal)
 
 ## Contato
 
