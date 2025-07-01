@@ -13,7 +13,7 @@ Git | Jira | Figma
 ### API (Aprendizado por Projetos Integradores)
 
 * 1° API FATEC - Scrum360: Aplicação Web para ensino da metodologia ágil Scrum [Repositório Scrum360](https://github.com/davihelisson/FATEC-API-Under_Devs)
-* 2° API FATEC - IDE integrada ao Ollama desenvolvida em Java para criação de testes unitários usando IA [ Repositório PyIDE](https://github.com/davihelisson/FATEC-API2ADS-UnderDevs)
+* 2° API FATEC - IDE integrada ao Ollama desenvolvida em Java para criação de testes unitários usando IA [ Repositório UnderDevs IDE](https://github.com/davihelisson/FATEC-API2ADS-UnderDevs)
 
 ## Contato
 
