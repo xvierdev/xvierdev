@@ -1,9 +1,9 @@
 # Olá eu sou Wesley
-Estudante de análise e desenvolvimento de sistemas, cursando segundo semestre na FATEC em São José dos Campos.
+Estudante de análise e desenvolvimento de sistemas, cursando terceiro semestre na FATEC em São José dos Campos.
 Sou entusiasta pela aplicação da técnologia na ciência e tenho como principal objetivo contribuir com projetos que causem impactos no mundo.
 
 ## Linguagens de Programação
-Java | C# | Python
+Python| Javascript | Java | C#
 
 ## Tecnologias
 Git | Jira | Figma
