@@ -3,7 +3,7 @@ Estudante de análise e desenvolvimento de sistemas, cursando terceiro semestre 
 Sou entusiasta pela aplicação da técnologia na ciência e tenho como principal objetivo contribuir com projetos que causem impactos no mundo.
 
 ## Linguagens de Programação
-Python| Javascript | Java | C#
+Python | Javascript | Java | C#
 
 ## Tecnologias
 Git | Jira | Figma
