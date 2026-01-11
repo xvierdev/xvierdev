@@ -1,15 +1,22 @@
 # 👋 Olá, eu sou Wesley Xavier
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos, cursando o 4º semestre. Apaixonado por tecnologia e inovação, busco contribuir para projetos que façam a diferença no mundo.
+Desenvolvedor em formação com foco em **soluções estruturadas e eficientes**, cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na **FATEC São José dos Campos**. Valorizo a **lógica, matemática e automação inteligente** sobre modismos, buscando resolver problemas reais com código bem projetado, scripts de automação e uma compreensão sólida de infraestrutura e fluxos de dados.
+
+Atuo como Estagiário Analista na Vivo, onde transformo análises manuais em **processos automatizados** – desenvolvendo dashboards, scripts e integrações (como bots no Telegram) que conectam pessoas a dados de forma ágil. Meu objetivo é migrar para desenvolvimento full-time, projetando sistemas robustos que priorizem simplicidade e eficácia.
 
 ## 🎓 Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas** - FATEC São José dos Campos (4º Semestre)
-- Foco em desenvolvimento full-stack, metodologias ágeis e integração de IA.
+- Foco em desenvolvimento full-stack, metodologias ágeis e integração de IA seguindo as boas práticas do desenvolvimento de código.
 
 ## 💻 Tecnologias e Ferramentas
-- **Linguagens**: Python, JavaScript, TypeScript, Java, C#
-- **Ferramentas**: Git, Jira, Figma, Ollama
-- **Bancos de Dados**: MySQL, SQL Server
+**Linguagens & Tecnologias:**  
+`C#` `.NET` `Python` `JavaScript` `TypeScript` `Java` `React` `Node.js`
+
+**Bancos de Dados:**  
+`MySQL` `SQL Server`
+
+**Ferramentas & Plataformas:**  
+`Git` `GitHub` `Jira` `Figma` `Ollama` `Docker`
 
 ## 🚀 Projetos em Destaque
 ### EchoNova
