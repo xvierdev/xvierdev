@@ -18,12 +18,13 @@ Atuo como Estagiário Analista na Vivo, onde transformo análises manuais em **p
 **Ferramentas & Plataformas:**  
 `Git` `GitHub` `Jira` `Figma` `Ollama` `Docker`
 
-🚀 Foco e Desenvolvimento
+## 🚀 Foco e Desenvolvimento
 
 Atualmente, estou aprofundando meus conhecimentos no ecossistema .NET (C#), com foco sólido em fundamentos de computação, POO, gerenciamento de memória (GC/CLR) e estruturas de dados. Meu objetivo é atuar como Desenvolvedor Backend, construindo aplicações robustas, automação de fluxos e sistemas escaláveis.
 
 No momento, estou expandindo meu stack para incluir ASP.NET Core e Entity Framework, além de possuir conhecimentos em Docker para containerização de aplicações.
-🐧 Lab & Infraestrutura (Self-Hosting)
+
+## 🐧 Lab & Infraestrutura (Self-Hosting)
 
 Fora do desenvolvimento de software, exploro o lado da infraestrutura mantendo um home server (Debian CLI). Tenho experiência prática configurando e administrando:
 
