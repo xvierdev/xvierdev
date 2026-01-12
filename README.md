@@ -13,7 +13,7 @@ Atuo como Estagiário Analista na Vivo, onde transformo análises manuais em **p
 `C#` `.NET` `Python` `JavaScript` `TypeScript` `Java` `React` `Node.js`
 
 **Bancos de Dados:**  
-`MySQL` `SQL Server`
+`MySQL` `MariaDB`
 
 **Ferramentas & Plataformas:**  
 `Git` `GitHub` `Jira` `Figma` `Ollama` `Docker`
@@ -27,20 +27,22 @@ No meu tempo livre, exploro **infraestrutura em Linux**: mantenho um servidor ca
 
 ## 🚀 Projetos em Destaque
 ### EchoNova
-API desenvolvida no 3º semestre de ADS na FATEC, em parceria com a Entrenova. Sistema para diagnóstico inteligente de treinamentos e mercado, utilizando entrevistas estruturadas com empresas para gerar diagnósticos automáticos e estratégicos.  
+Projeto em equipe desenvolvido no 3º semestre de ADS na FATEC (2025-2), em parceria com a Entrenova. Sistema web completo (API + Frontend) que aplica entrevistas estruturadas com empresas para gerar diagnósticos automáticos e inteligentes sobre necessidades de treinamentos corporativos. Inclui questionários simplificados e aprofundados, geração de relatórios personalizados com IA offline (Ollama), sistema de planos e pagamentos, e dashboard para visualização de resultados estratégicos.  
 [Tecnologias: TypeScript, React, Node.js, Python, Ollama]  
 [Repositório](https://github.com/EquipeEcho/EchoNova)
 
 ### UnderDevs IDE
-IDE integrada ao Ollama para geração automática de testes unitários usando IA.  
+Projeto em equipe desenvolvido no 2º semestre de ADS na FATEC (1ºsem/2025). IDE em Java para auxiliar desenvolvedores Python a otimizar tempo e custo de desenvolvimento. Utiliza IA local (Ollama com modelo Qwen) para gerar testes unitários, recomendar melhorias de código (eficiência, segurança, legibilidade), gerar documentação automática (docstrings) e explicar trechos de código em linguagem natural. Inclui editor de código, execução de scripts Python e integração com MySQL para armazenar prompts e histórico. Atuei como Scrum Master, coordenando o time, removendo impedimentos, monitorando entregas e garantindo o cumprimento das sprints.  
+[Tecnologias: Java (Swing), Python, Ollama, MySQL]  
 [Repositório](https://github.com/davihelisson/FATEC-API2ADS-UnderDevs)
 
 ### Scrum360
-Aplicação web para ensino da metodologia ágil Scrum.  
+Projeto em equipe desenvolvido no 1º semestre de ADS na FATEC (2024). Aplicação web educativa para ensinar a metodologia ágil Scrum de forma estruturada e interativa. Oferece páginas de conteúdo organizadas por módulos, avaliações parciais e exame final para testar o conhecimento, exemplos práticos de aplicação do Scrum, áudios em cada página e visualização de desempenho nos testes.  
+[Tecnologias: Python, Flask, HTML, CSS, JavaScript]  
 [Repositório](https://github.com/davihelisson/FATEC-API-Under_Devs)
 
 ### ProjetoBot
-Projeto desenvolvido em Python para a disciplina de Interação Humano-Computador com o professor Giuliano Araujo Bertoti. Utiliza interface de linguagem natural para operações em banco de dados SQLite, facilitando consultas e manipulação de dados. Esse projeto me ajudou a criar bots similares no meu estágio na Vivo, permitindo acesso facilitado a dados específicos para técnicos de telecom via Telegram.  
+Projeto em dupla desenvolvido em Python para a disciplina de Interação Humano-Computador com o professor Giuliano Araujo Bertoti. Utiliza interface de linguagem natural para operações em banco de dados SQLite, facilitando consultas e manipulação de dados. Esse projeto me ajudou a criar bots similares no meu estágio na Vivo, permitindo acesso facilitado a dados específicos para técnicos de telecom via Telegram.  
 [Tecnologias: Python, SQLite, Ollama]  
 [Repositório](https://github.com/xvierdev/ProjetoBot)
 
