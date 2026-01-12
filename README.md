@@ -18,12 +18,22 @@ Atuo como Estagiário Analista na Vivo, onde transformo análises manuais em **p
 **Ferramentas & Plataformas:**  
 `Git` `GitHub` `Jira` `Figma` `Ollama` `Docker`
 
-## 🌟 Interesses Atuais
-Atualmente, estudo diariamente na Udemy, com foco principal em **.NET e C#** através do curso do Nelio Alves – estou nos fundamentos, ainda não cheguei em ASP.NET Core e Entity Framework. Meu maior interesse é conseguir uma vaga de **junior ou estagiário em desenvolvimento backend com .NET/C#**, trabalhando em aplicações, automação de fluxos, tratamento e entrega de dados.
+🚀 Foco e Desenvolvimento
 
-Também pretendo retomar os estudos em **web (JavaScript/TypeScript)** este mês, que estão pausados. Fiz um estudo introdutório de **Docker** pela Udemy, mas dei uma pausa para priorizar o C#.
+Atualmente, estou aprofundando meus conhecimentos no ecossistema .NET (C#), com foco sólido em fundamentos de computação, POO, gerenciamento de memória (GC/CLR) e estruturas de dados. Meu objetivo é atuar como Desenvolvedor Backend, construindo aplicações robustas, automação de fluxos e sistemas escaláveis.
 
-No meu tempo livre, exploro **infraestrutura em Linux**: mantenho um servidor caseiro com Debian (CLI), rodando serviços como Samba, Gitea, UFW, SSH, Fail2Ban e Watchdog para reinício automático. Uso um domínio próprio no Cloudflare para expor o servidor (Gitea via proxy reverso e SSH via DNS), tudo configurado com pesquisa, tutoriais e ajuda de IA – não sou especialista, mas gosto de automatizar e aprender na prática.
+No momento, estou expandindo meu stack para incluir ASP.NET Core e Entity Framework, além de possuir conhecimentos em Docker para containerização de aplicações.
+🐧 Lab & Infraestrutura (Self-Hosting)
+
+Fora do desenvolvimento de software, exploro o lado da infraestrutura mantendo um home server (Debian CLI). Tenho experiência prática configurando e administrando:
+
+    Serviços: Gitea (Git self-hosted), Samba, SSH.
+
+    Segurança & Resiliência: Firewall (UFW), Fail2Ban e scripts de monitoramento (Watchdog).
+
+    Redes: Exposição segura de serviços via Proxy Reverso (Cloudflare/DNS).
+
+Acredito na filosofia learn by doing e uso meu laboratório pessoal para testar deploys e automações que refletem desafios reais de produção.
 
 ## 🚀 Projetos em Destaque
 ### EchoNova
